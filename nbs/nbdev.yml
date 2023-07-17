@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "samta"
+  site-url: "https://karnsaurabhkumar.github.io/samta"
+  description: "A set of utilities to work with legal data"
+  repo-branch: main
+  repo-url: "https://github.com/karnsaurabhkumar/samta"
